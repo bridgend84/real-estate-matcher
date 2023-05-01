@@ -22,3 +22,5 @@ You can run the application in any IDE (written in <a href="https://www.jetbrain
 [product-screenshot]: images/screenshot.png
 [Java-badge]: https://img.shields.io/badge/java-20232A?style=for-the-badge&logo=openjdk
 [Java-url]: https://openjdk.org/
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
